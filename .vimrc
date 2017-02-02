@@ -1,5 +1,5 @@
 " Vim configuration, using Vundle (https://github.com/VundleVim/Vundle.vim)
-" 
+"
 " Úsage:
 "
 "   1) Copy this file to ~/.vimrc
@@ -32,7 +32,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'flazz/vim-colorschemes'
 Plugin 'itchyny/lightline.vim' " enhanced status bar
 Plugin 'tpope/vim-fugitive' " git integration
-Plugin 'nathanaelkane/vim-indent-guides' 
+Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'tpope/vim-surround'
 Plugin 'kien/ctrlp.vim'
 
@@ -100,6 +100,9 @@ let g:lightline = {
 " indent-guides plugin options
 let g:indent_guides_start_level=2
 let g:indent_guides_guide_size=1
+
+" enable mouse in xterm or GUI
+set mouse=a
 
 " additional options
 syntax on
