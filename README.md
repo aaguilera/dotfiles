@@ -4,7 +4,7 @@ My dotfiles
 
 # Usage
 
-*WARNING:* Always review the configuration files and customize them to fit your needs.
+**WARNING:** Always review the configuration files and customize them to fit your needs.
 
 Clone this repo in your $HOME/.dotfiles directory
 
