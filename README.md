@@ -6,7 +6,7 @@ My dotfiles
 
 **WARNING:** Always review the configuration files and customize them to fit your needs.
 
-Clone this repo in your $HOME/.dotfiles directory
+Clone this repo in your `$HOME/.dotfiles` directory:
 
     git clone https://github.com/aaguilera/dotfiles.git ~/.dotfiles
 
