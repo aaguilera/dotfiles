@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=SQL Developer
+Exec=/usr/bin/sqldeveloper
+Icon=/usr/share/sqldeveloper/sqldeveloper/doc/icon.png
+Type=Application
+MimeType=application/x-sqldeveloper
+Comment=Oracle SQL Developer
+X-KDE-StartupNotify=true
+Terminal=false
+Categories=Database;Office;Development;KDE;Qt

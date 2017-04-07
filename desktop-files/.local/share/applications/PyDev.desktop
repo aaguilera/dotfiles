@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/angel/soft/eclipse-pydev/eclipse
+Name=PyDev
+Icon=/home/angel/soft/eclipse-pydev/icon.xpm
+GenericName=PyDev
+Comment=PyDev

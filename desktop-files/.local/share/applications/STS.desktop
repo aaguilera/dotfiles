@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=export GDK_BACKEND=x11 /home/angel/soft/sts/STS
+Name=STS
+Icon=/home/angel/soft/sts/icon.xpm
+GenericName=STS
+Comment=STS

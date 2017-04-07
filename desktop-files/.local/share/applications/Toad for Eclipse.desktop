@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/angel/soft/eclipse-toad/eclipse
+Name=Eclipse PDT
+Icon=/home/angel/Imágenes/toad_icon.png
+GenericName=Eclipse PHP
+Comment=Eclipse PHP
+Comment[es_ES]=Toad for Eclipse
+GenericName[es_ES]=Toad for Eclipse
+Name[es_ES]=Toad for Eclipse
