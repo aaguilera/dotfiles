@@ -5,8 +5,8 @@ Terminal=false
 Exec=env GDK_BACKEND=x11 /home/angel/soft/eclipse-toad/eclipse
 Name=Eclipse PDT
 Icon=/home/angel/Imágenes/toad_icon.png
-GenericName=Eclipse PHP
-Comment=Eclipse PHP
+GenericName=Toad for Eclipse
+Comment=Toad for Eclipse
 Comment[es_ES]=Toad for Eclipse
 GenericName[es_ES]=Toad for Eclipse
 Name[es_ES]=Toad for Eclipse
