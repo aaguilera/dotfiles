@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=env SWT_GTK3=0 /home/angel/soft/sts4/SpringToolSuite4
+Exec=/home/angel/soft/sts4/SpringToolSuite4
 Name=Spring Tools 4
 Icon=/home/angel/.local/share/icons/sts4.png
 GenericName=STS4
