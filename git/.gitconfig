@@ -19,4 +19,9 @@
 
 [alias]
 	lod = log --oneline --decorate --color
+	sdiff = !git diff && git submodule foreach 'git diff'
+	spush = push --recurse-submodules=on-demand
+	supdate = submodule update --remote --merge
 
+[status]
+	submodulesummary = 1
