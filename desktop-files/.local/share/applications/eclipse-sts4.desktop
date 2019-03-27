@@ -4,6 +4,6 @@ Type=Application
 Terminal=false
 Exec=/home/angel/soft/sts4/SpringToolSuite4
 Name=Spring Tools 4
-Icon=/home/angel/.local/share/icons/sts4.png
+Icon=/home/angel/soft/sts4/icon.xpm
 GenericName=STS4
 Comment=STS4
