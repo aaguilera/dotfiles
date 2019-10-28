@@ -25,3 +25,5 @@
 
 [status]
 	submodulesummary = 1
+[core]
+	pager = less
