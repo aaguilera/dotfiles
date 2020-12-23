@@ -25,5 +25,10 @@
 
 [status]
 	submodulesummary = 1
+
 [core]
 	pager = less
+
+[pull]
+	ff = only
+
