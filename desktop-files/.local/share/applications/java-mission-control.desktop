@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/angel/soft/jmc/bin/jmc
+Name=JDK Mission Control
+Icon=/home/angel/soft/jmc/bin/icon.xpm
+GenericName=JDK Mission Control
+Comment=JDK Mission Control
+Categories=Development;IDE;GTK;Java
