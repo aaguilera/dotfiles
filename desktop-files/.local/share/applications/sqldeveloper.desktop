@@ -1,8 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=SQL Developer
-Exec=env GDK_BACKEND=x11 /usr/bin/sqldeveloper
-Icon=/usr/share/sqldeveloper/sqldeveloper/doc/icon.png
+#Exec=env GDK_BACKEND=X11 /home/angel/soft/sqldeveloper/sqldeveloper.sh
+Exec=env _JAVA_OPTIONS='-Dawt.useSystemAAFontSettings=gasp -Dswing.aatext=true -Dswing.plaf.metal.controlFont="Droid Sans-13" -Dswing.plaf.metal.userFont="Droid Sans-13" -Dswing.plaf.metal.systemFont="Droid Sans-13"' /home/angel/soft/sqldeveloper/sqldeveloper.sh
+Icon=/home/angel/soft/sqldeveloper/sqldeveloper/doc/icon.png
 Type=Application
 MimeType=application/x-sqldeveloper
 Comment=Oracle SQL Developer
