@@ -1,0 +1,6 @@
+# Import all .bashrc files (sorted) under "~/.bashrc.d/"
+# Add the following lines to your ~/.bashrc file
+# shellcheck disable=SC2012,SC1090
+for bashrc_script in $(find "$HOME"/.bashrc.d/*.bashrc -type f | sort -V); do
+source "$bashrc_script"
+done
