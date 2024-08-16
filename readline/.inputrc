@@ -1,0 +1,7 @@
+# Configuració local per a libreadline
+# La configuració global es troba a /etc/inputrc
+
+# make autocompletion case insensitive and display suggestions
+set completion-ignore-case On
+set show-all-if-ambiguous On
+
