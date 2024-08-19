@@ -11,6 +11,9 @@ colorscheme gruvbox
 " lightline plugin
 set laststatus=2
 
+" airline plugin
+let g:airline_powerline_fonts=1
+
 " indent-guides plugin options
 let g:indent_guides_start_level=2
 let g:indent_guides_guide_size=1
