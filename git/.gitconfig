@@ -22,7 +22,7 @@
 	sdiff = !git diff && git submodule foreach 'git diff'
 	spush = push --recurse-submodules=on-demand
 	supdate = submodule update --remote --merge
-        br = branches -avv
+        br = branch -avv
 
 [status]
 	submodulesummary = 1
