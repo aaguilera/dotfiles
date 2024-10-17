@@ -1,5 +1,3 @@
 # Activa direnv
-if [ -f "$(which direnv)" ]; then
-    eval "$(direnv hook bash)"
-fi
+command -v direnv 2>&1 >/dev/null && eval "$(direnv hook bash)"
 
