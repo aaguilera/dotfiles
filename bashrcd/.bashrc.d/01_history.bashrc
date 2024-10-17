@@ -1,3 +1,4 @@
+#!/bin/bash
 export HISTTIMEFORMAT="%g/%m/%d %H:%M "
 
 # don't put duplicate lines or lines starting with space in the history.

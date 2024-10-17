@@ -1,2 +1,4 @@
+#!/usr/bin/env bash
 # Set JAVA_HOME variable
-export JAVA_HOME=$(readlink -f /usr/bin/javac | sed "s:/bin/javac::") 
+JAVA_HOME=$(readlink -f /usr/bin/javac | sed "s:/bin/javac::")
+export JAVA_HOME
