@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/angel/soft/sts/SpringToolSuite4
+Name=Spring Tools
+Icon=/home/angel/soft/sts/icon.xpm
+GenericName=Java IDE
+Comment=Develop Java applications with Spring Framework
+Categories=Development;IDE;GTK;Java
