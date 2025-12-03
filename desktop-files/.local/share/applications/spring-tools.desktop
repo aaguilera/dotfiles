@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=/home/angel/soft/sts/SpringToolSuite4
+Exec=/home/angel/soft/sts/SpringToolsForEclipse
 Name=Spring Tools for Eclipse
 Icon=/home/angel/soft/sts/icon.xpm
 GenericName=Java IDE
