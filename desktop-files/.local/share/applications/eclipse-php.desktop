@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Eclipse PHP
-Exec=/home/angel/soft/eclipse-php/eclipse %u
-NoDisplay=true
-Version=1.0
-Type=Application
-Terminal=false
-Icon=/home/angel/soft/eclipse-php/icon.xpm
