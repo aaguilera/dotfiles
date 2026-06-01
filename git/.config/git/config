@@ -22,13 +22,15 @@
 	sdiff = !git diff && git submodule foreach 'git diff'
 	spush = push --recurse-submodules=on-demand
 	supdate = submodule update --remote --merge
-        br = branch -avv
+	br = branch -avv
+	superlog = log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
 
 [status]
 	submodulesummary = 1
 
 [core]
 	pager = less
+	askPass = ksshaskpass
 
 [pull]
 	ff = only
