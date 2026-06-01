@@ -10,6 +10,7 @@ Clone this repo in your `$HOME/.dotfiles` directory:
 
     git clone https://github.com/aaguilera/dotfiles.git ~/.dotfiles
     cd ~/.dotfiles
+    git submodule init
     git submodule update --remote --merge
 
 Then create soft links to whatever configuration files are useful to you.
