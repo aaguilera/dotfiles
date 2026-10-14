@@ -1,0 +1,30 @@
+{
+  "$schema": "https://opencode.ai/v2/cli.json",
+  "theme": {
+    "name": "gruvbox"
+  },
+  "animations": true,
+  "mouse": true,
+  "scroll": {
+    "speed": 3,
+    "acceleration": true
+  },
+  "cursor": {
+    "style": "block",
+    "blinking": true
+  },
+  "diffs": {
+    "wrap": "word",
+    "view": "auto"
+  },
+  "session": {
+    "sidebar": "auto",
+    "scrollbar": false,
+    "thinking": "hide"
+  },
+  "attention": {
+    "notifications": true,
+    "sound": true,
+    "volume": 0.4
+  }
+}
